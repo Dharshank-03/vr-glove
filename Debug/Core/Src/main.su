@@ -1,0 +1,15 @@
+../Core/Src/main.c:51:10:HAL_GetTick	4	static
+../Core/Src/main.c:66:6:dis	16	static
+../Core/Src/main.c:78:7:mpu6050	32	static
+../Core/Src/main.c:93:6:mpu6050gyro	32	static
+../Core/Src/main.c:118:6:acc	32	static
+../Core/Src/main.c:148:6:gyro	24	static
+../Core/Src/main.c:165:6:kalman	40	static
+../Core/Src/main.c:182:5:main	560	static
+../Core/Src/main.c:408:6:SystemClock_Config	88	static
+../Core/Src/main.c:456:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:580:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:618:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:649:13:MX_DMA_Init	16	static
+../Core/Src/main.c:667:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:712:6:Error_Handler	4	static,ignoring_inline_asm
